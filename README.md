@@ -8,7 +8,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/kifbell?style=social)
 
 ### **About me:** 
-Accomplished Quantitative Machine Learning Engineer with a proven track record in ML, infrastructure, and finance projects. Passionate about architectural enhancements, with substantial experience in statis- tical backtesting and developing new investment strategies.
+Accomplished Quantitative Machine Learning Engineer with a proven track record in ML, infrastructure, and finance projects. Passionate about architectural enhancements, with substantial experience in statistical backtesting and developing new investment strategies.
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
