@@ -57,7 +57,7 @@ Accomplished Quantitative Machine Learning Engineer with a proven track record i
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![advpropsys's github stats](https://github-readme-stats.vercel.app/api?username=kifbell&show_icons=true&theme=tokyonight)
+![kifbell's github stats](https://github-readme-stats.vercel.app/api?username=kifbell&show_icons=true&theme=ambient_gradient)
 
 
 
