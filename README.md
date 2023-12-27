@@ -1,13 +1,11 @@
-### 👋 I am Kirill Bell
+### 👋 I am Kirill Bell 
+### I am a Quantitative Researcher
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/kifbell)
+📫 Feel free to reach me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/kifbell)
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/kifbell)       
 
 ![GitHub followers](https://img.shields.io/github/followers/kifbell?style=social)
-
-
-### Quantitative Researcher
 
 ### **About me:** 
 Accomplished Quantitative Machine Learning Engineer with a proven track record in ML, infrastructure, and finance projects. Passionate about architectural enhancements, with substantial experience in statis- tical backtesting and developing new investment strategies.
@@ -15,10 +13,6 @@ Accomplished Quantitative Machine Learning Engineer with a proven track record i
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/kifbell/compgraph/&mode=dark&style=horizontal)](https://github.com/kifbell/compgraph)
-
-
-
-
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 ### Languages:
@@ -35,8 +29,6 @@ Accomplished Quantitative Machine Learning Engineer with a proven track record i
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-
-
 ### Storage:
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -45,33 +37,22 @@ Accomplished Quantitative Machine Learning Engineer with a proven track record i
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-
 ### Platforms:
-
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
 
 ### Deploy: 
-![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ### CI:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-
-
 ### My favourite soft:
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
-
-
-
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
