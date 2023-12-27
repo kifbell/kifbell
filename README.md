@@ -1,4 +1,4 @@
-### Hi there 👋 I am Kirill Bell
+### 👋 I am Kirill Bell
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/kifbell)
 
