@@ -1,13 +1,15 @@
 ### Hi there 👋 I am Kirill Bell
 
-![GitHub followers](https://img.shields.io/github/followers/kifbell?style=social)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/kifbell)
 
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/kifbell)       
+
+![GitHub followers](https://img.shields.io/github/followers/kifbell?style=social)
 
 
 ### Quantitative Researcher
 
-### **Bio:** 
+### **About me:** 
 Accomplished Quantitative Machine Learning Engineer with a proven track record in ML, infrastructure, and finance projects. Passionate about architectural enhancements, with substantial experience in statis- tical backtesting and developing new investment strategies.
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
@@ -25,7 +27,7 @@ Accomplished Quantitative Machine Learning Engineer with a proven track record i
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
 
-### DS/ML:
+### DS & ML:
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
