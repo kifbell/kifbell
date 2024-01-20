@@ -1,7 +1,7 @@
 ### 👋 I am Kirill Bell 
 ### I am a Quantitative Researcher
 
-📫 Feel free to reach me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/kifbell)
+📫 Feel free to reach me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kifbell/)
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/kifbell)       
 
