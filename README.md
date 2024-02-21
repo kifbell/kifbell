@@ -12,8 +12,6 @@ Accomplished Quantitative Machine Learning Engineer with a proven track record i
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/kifbell/hse-course-work-bonds/&mode=dark&style=horizontal)](https://github.com/kifbell/hse-course-work-bonds)
-
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/kifbell/compgraph/&mode=dark&style=horizontal)](https://github.com/kifbell/compgraph)
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
